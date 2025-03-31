@@ -1,0 +1,3 @@
+Digite seu e-mail:
+Digite seu nome:
+digite sua idade:
